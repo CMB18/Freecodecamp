@@ -9,11 +9,28 @@
     flex-wrap: wrap;
     padding: 0 4px;
   }
+  #img-div {
+      box-sizing: 600px;
+  }
+  #tribute-link {
+      font-size: 35px;
+  }
+  #image-caption {
+    font-weight: bold;  
+    font-size: 30px;
+  }
+  #title {
+      font-weight: bold;
+      font-size: 40px;;
+  }
+  #tribute-link {
+      color: #CC0000;
+  }
   
   /* Create four equal columns that sits next to each other */
   .column {
     -ms-flex: 100%; /* IE10 */
-    flex: 25%;
+    flex: 85%;
     max-width: 25%;
     padding: 0 4px;
   }
