@@ -12,8 +12,11 @@
   #img-div {
       box-sizing: 600px;
   }
+  #tribute-info {
+      text-align: center;
+  }
   #tribute-link {
-      font-size: 35px;
+      font-size: 25px;
   }
   #image-caption {
     font-weight: bold;  
